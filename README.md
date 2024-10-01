@@ -19,7 +19,7 @@
 <hr>
 <h2 align="center" style="color: #4A90E2;">🌍 About Me</h2>
 <p align="center" style="max-width: 600px;">
-  🚀 Currently pursuing **Software Engineering** (3rd Semester) at **Islamia College University, Peshawar**.<br>
+  🚀 Currently pursuing **Software Engineering**  at **Islamia College University, Peshawar**.<br>
   🎯 Focused on **Computer Vision** and its **fundamentals**.<br>
   💻 Actively learning **image classification** and **image processing techniques**.<br>
   🌱 Passionate about continuous learning and embracing new challenges.<br>
