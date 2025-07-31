@@ -20,8 +20,8 @@
 <h2 align="center" style="color: #4A90E2;">🌍 About Me</h2>
 <p align="center" style="max-width: 600px;">
   🚀 Currently pursuing **Software Engineering**  at **Islamia College University, Peshawar**.<br>
-  🎯 Focused on **Computer Vision** and its **fundamentals**.<br>
-  💻 Actively learning **image classification** and **image processing techniques**.<br>
+  🎯 Focused on **Computer Vision** and its **fundamentals** and also **flutter and Mobile App development**.<br>
+  💻 Actively learning **Flutter UI implementation** .<br>
   🌱 Passionate about continuous learning and embracing new challenges.<br>
   💬 Open to collaboration and learning opportunities.<br>
   ✉️ Reach me at **<a href="mailto:muhammadaadil221141@gmail.com">muhammadaadil221141@gmail.com</a>**.
