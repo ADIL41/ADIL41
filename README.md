@@ -35,7 +35,6 @@
 <p align="center">
   🔥 Building responsive Flutter applications<br>
   🤖 Integrating AI/ML models into mobile apps<br>
-  📸 Exploring Computer Vision in Flutter<br>
   🎨 Mastering Material Design & Cupertino widgets
 </p>
 
