@@ -171,7 +171,7 @@
 <hr>
 <h2 align="center" style="color: #4A90E2;">📚 Learning Journey</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/2024-Flutter%20Development-blue?style=for-the-badge" alt="2024 Flutter" />
+  <img src="https://img.shields.io/badge/2025-Flutter%20Development-blue?style=for-the-badge" alt="2025 Flutter" />
   <img src="https://img.shields.io/badge/2024-Computer%20Vision-green?style=for-the-badge" alt="2024 CV" />
   <img src="https://img.shields.io/badge/2025-AI/ML%20Integration-purple?style=for-the-badge" alt="2025 AI/ML" />
 </p>
