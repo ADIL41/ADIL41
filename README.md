@@ -196,22 +196,15 @@
 <hr>
 <h2 align="center" style="color: #4A90E2;">🌐 Let's Connect</h2>
 <p align="center">
-  <a href="https://kaggle.com/muhammad aadil" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://fb.com/muhammad adil" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:muhammadaadil221141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https:www.linkedin.com/in/m-adil--" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/m-adil--" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~0180a4556b2a412c98">
-  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-blueviolet?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
-</a>
-
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-blueviolet?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="mailto:muhammadaadil221141@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20Quote-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <!-- Footer Note -->
