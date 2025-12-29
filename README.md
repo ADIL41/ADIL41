@@ -205,7 +205,7 @@
   <a href="mailto:muhammadaadil221141@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/muhammad-adil" target="_blank">
+  <a href="https:www.linkedin.com/in/m-adil--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
