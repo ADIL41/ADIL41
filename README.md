@@ -133,30 +133,17 @@
   </table>
 </div>
 
-<!-- BOOSTED GitHub Analytics -->
+<!-- SHORT GitHub Stats -->
 <hr>
-<h2 align="center" style="color: #4A90E2; font-size: 2.2em;">📊 Proven Track Record</h2>
-
 <div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=adil41&show_icons=true&theme=dark&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil41&layout=compact&theme=dark&hide_border=true" width="60%" alt="Top Languages" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil41&theme=dark&hide_border=true" width="35%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=adil41&show_icons=true&theme=vue&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil41&layout=compact&theme=vue" width="48%" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/455%2B%20Views%20Today-Rocket-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dart%20%26%20Flutter-Top%20Languages-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/455+Views%20Today-🚀-brightgreen?style=flat-square" />
 </p>
+
 
 
 <!-- Featured Projects Section -->
