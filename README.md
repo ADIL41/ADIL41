@@ -147,21 +147,21 @@
 <h2 align="center" style="color: #4A90E2;">🚀 Featured Projects</h2>
 <div align="center">
 
-### 📱 **Chitral Dost App** (Live Demo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ADIL41&repo=Chitral-Dost-App&theme=vue)](https://github.com/ADIL41/Chitral-Dost-App)
+### 📱 **Chitral Dost App**
 > **Flutter + Firebase Auth/Firestore + Provider**  
 > Production-ready services mobile application  
-> **Public repo with full source code**  
 
-**[⭐ View Live Repo](https://github.com/ADIL41/Chitral-Dost-App)**
+<div align="center">
+<a href="https://github.com/ADIL41/Chitral-Dost-App">
+  <img src="https://img.shields.io/badge/Open%20Repo-⭐-blueviolet?style=for-the-badge&logo=github&logoColor=white&label=ADIL41/Chitral-Dost-App" />
+</a>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/455%2B%20Views-rocket-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/455%20Views-Rocket-brightgreen?style=flat-square" />
 </p>
 
 </div>
-
 
 <!-- Learning Journey -->
 <hr>
