@@ -133,16 +133,18 @@
   </table>
 </div>
 
-<!-- SHORT GitHub Stats -->
+<!-- ICON POWER GitHub Stats -->
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil41&show_icons=true&theme=vue&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil41&layout=compact&theme=vue" width="48%" />
+  <img src="https://img.shields.io/badge/455%2B%20Views-Rocket-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Dart%20Specialist-blue?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/455+Views%20Today-🚀-brightgreen?style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adil41&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil41&layout=compact&theme=radical" width="48%" />
+</div>
+
 
 
 
