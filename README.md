@@ -208,6 +208,10 @@
   <a href="https:www.linkedin.com/in/m-adil--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~0180a4556b2a412c98">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-blueviolet?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
+</a>
+
 </p>
 
 <!-- Footer Note -->
