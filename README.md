@@ -146,26 +146,22 @@
 <hr>
 <h2 align="center" style="color: #4A90E2;">🚀 Featured Projects</h2>
 <div align="center">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <h3>📱 Flutter Applications</h3>
-        <p>Building cross-platform mobile apps<br>with modern UI/UX principles</p>
-        <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" alt="Status" />
-      </td>
-      <td align="center" style="padding: 20px;">
-        <h3>🤖 CV + Flutter Integration</h3>
-        <p>Combining Computer Vision<br>with Flutter for smart apps</p>
-        <img src="https://img.shields.io/badge/Status-Research%20Phase-blue?style=flat-square" alt="Status" />
-      </td>
-      <td align="center" style="padding: 20px;">
-        <h3>🎯 Image Processing</h3>
-        <p>OpenCV projects for<br>real-world applications</p>
-        <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status" />
-      </td>
-    </tr>
-  </table>
+
+### 📱 **Chitral Dost App** (Live Demo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ADIL41&repo=Chitral-Dost-App&theme=vue)](https://github.com/ADIL41/Chitral-Dost-App)
+> **Flutter + Firebase Auth/Firestore + Provider**  
+> Production-ready services mobile application  
+> **Public repo with full source code**  
+
+**[⭐ View Live Repo](https://github.com/ADIL41/Chitral-Dost-App)**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/455%2B%20Views-rocket-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" />
+</p>
+
 </div>
+
 
 <!-- Learning Journey -->
 <hr>
